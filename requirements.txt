@@ -1,0 +1,11 @@
+SpeechRecognition==3.10.0
+pydub==0.25.1
+torch==2.0.1
+torchvision==0.15.2
+tiktoken==0.3.1
+openai.whisper==20230314
+pyaudio==0.2.13
+# portaudio
+# ffmpeg
+pyttsx3==2.90
+pyobjc==9.2
